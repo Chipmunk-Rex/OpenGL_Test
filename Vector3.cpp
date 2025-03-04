@@ -11,7 +11,7 @@ public:
 		this->y = y;
 		this->z = z;
 	}
-	
+
 	Vector3 operator+(Vector3 other)
 	{
 		return Vector3(this->x + other.x, this->y + other.y, this->z + other.z);

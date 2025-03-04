@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|solutionrelative:Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|solutionrelative:Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\OpenGL-Test(FreeGlut).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|solutionrelative:OpenGL-Test(FreeGlut).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|solutionrelative:Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\OpenGL-Test(FreeGlut).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1324650B-7AA9-499B-AB4E-885F2ED92BC7}|OpenGL-Test(FreeGlut).vcxproj|solutionrelative:OpenGL-Test(FreeGlut).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Component.cpp",
               "DocumentMoniker": "C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Component.cpp",
               "RelativeDocumentMoniker": "Component.cpp",
@@ -46,11 +46,12 @@
               "RelativeToolTip": "Component.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T12:40:27.335Z"
+              "WhenOpened": "2025-03-04T12:40:27.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Component.h",
               "DocumentMoniker": "C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Component.h",
               "RelativeDocumentMoniker": "Component.h",
@@ -63,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
@@ -71,11 +72,12 @@
               "RelativeToolTip": "Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T12:20:22.571Z"
+              "WhenOpened": "2025-03-04T12:20:22.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OpenGL-Test(FreeGlut).cpp",
               "DocumentMoniker": "C:\\Users\\msi\\Desktop\\rex\\Develope\\Github\\CPP\\OpenGL_Test\\OpenGL-Test(FreeGlut).cpp",
               "RelativeDocumentMoniker": "OpenGL-Test(FreeGlut).cpp",
@@ -83,7 +85,8 @@
               "RelativeToolTip": "OpenGL-Test(FreeGlut).cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T10:26:48.976Z"
+              "WhenOpened": "2025-03-04T10:26:48.976Z",
+              "EditorCaption": ""
             }
           ]
         }
