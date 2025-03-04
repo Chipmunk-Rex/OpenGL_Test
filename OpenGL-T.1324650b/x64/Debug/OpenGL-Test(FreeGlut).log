@@ -1,0 +1,6 @@
+﻿  Component.cpp
+  OpenGL-Test(FreeGlut).cpp
+C:\Users\msi\Desktop\rex\Develope\Github\CPP\OpenGL_Test\OpenGL-Test(FreeGlut).cpp(31,13): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  Player.cpp
+  코드를 생성하고 있습니다...
+  OpenGL-Test(FreeGlut).vcxproj -> C:\Users\msi\Desktop\rex\Develope\Github\CPP\OpenGL_Test\x64\Debug\OpenGL-Test(FreeGlut).exe
